@@ -1,69 +1,18 @@
-💫 About Me:
-🔭 I’m currently working on
+# 💫 About Me:
+🔭 I’m currently working on<br><br>Building real-world ML & backend projects like house price prediction and autonomous trading systems<br><br>Improving my skills in Python, APIs, and deployment using Docker<br><br>Creating practical mini-projects to strengthen problem-solving skills<br><br>👯 I’m looking to collaborate on<br><br>Open-source Python & Machine Learning projects<br><br>Backend projects using FastAPI / Flask<br><br>Beginner-friendly DevOps / CI-CD learning projects<br><br>🤝 I’m looking for help with<br><br>Scaling ML models to production<br><br>Best practices in Docker, deployment, and cloud<br><br>Improving code quality and clean architecture<br><br>🌱 I’m currently learning<br><br>Machine Learning fundamentals<br><br>REST APIs & Backend development<br><br>Docker & CI/CD basics<br><br>Writing efficient, readable & production-ready code<br><br>💬 Ask me about<br><br>Python<br><br>Machine Learning basics<br><br>REST APIs<br><br>Git & GitHub<br><br>Problem solving & logic building<br><br>⚡ Fun fact<br><br>I love turning ideas into working projects 🚀<br><br>I believe consistency beats talent 💯<br><br>I enjoy learning something new every day 😄
 
-Building real-world ML & backend projects like house price prediction and autonomous trading systems
 
-Improving my skills in Python, APIs, and deployment using Docker
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dipakshimpi_000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-shimpi-24a856281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimpidipak81@gmail.com) 
 
-Creating practical mini-projects to strengthen problem-solving skills
-
-👯 I’m looking to collaborate on
-
-Open-source Python & Machine Learning projects
-
-Backend projects using FastAPI / Flask
-
-Beginner-friendly DevOps / CI-CD learning projects
-
-🤝 I’m looking for help with
-
-Scaling ML models to production
-
-Best practices in Docker, deployment, and cloud
-
-Improving code quality and clean architecture
-
-🌱 I’m currently learning
-
-Machine Learning fundamentals
-
-REST APIs & Backend development
-
-Docker & CI/CD basics
-
-Writing efficient, readable & production-ready code
-
-💬 Ask me about
-
-Python
-
-Machine Learning basics
-
-REST APIs
-
-Git & GitHub
-
-Problem solving & logic building
-
-⚡ Fun fact
-
-I love turning ideas into working projects 🚀
-
-I believe consistency beats talent 💯
-
-I enjoy learning something new every day 😄
-
-🌐 Socials:
-Instagram LinkedIn email
-
-💻 Tech Stack:
-C C++ Java JavaScript AWS Azure .Net MongoDB MySQL Matplotlib NumPy Pandas scikit-learn GitHub Prometheus
-
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= dipakshimpi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user= dipakshimpi&theme=dark&hide_border=false)
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= dipakshimpi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= dipakshimpi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username= dipakshimpi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://visitcount.itsvg.in/api?id= dipakshimpi&icon=0&color=0)
+---
+[![](https://visitcount.itsvg.in/api?id= dipakshimpi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
