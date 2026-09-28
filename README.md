@@ -1,44 +1,14 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Dipak%20Shimpi&fontSize=48&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=MLOps%20%7C%20DevOps%20%7C%20Backend%20%7C%20Creator&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Dipak+Shimpi;ML+%7C+Backend+%7C+DevOps+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+There!+%F0%9F%91%8B+I'm+Dipak+Shimpi;MLOps+Engineering+Undergrad;Automating+the+path+from+model+to+production;Building+in+public+with+Think+With+Us+%F0%9F%9A%80" alt="Typing SVG" />
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<!-- Tech Banner - Circuit board style with icons -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-### 🖥️ My Tech Universe
-
-<table align="center">
-<tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br>Azure</td>
-</tr>
-<tr>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JS</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br>.NET</td>
-<td align="center" width="80"><img src="https://skillicons.dev/icons?i=prometheus" width="48"/><br>Prometheus</td>
-</tr>
-</table>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-shimpi-24a856281)
+[![Instagram](https://img.shields.io/badge/Think%20With%20Us-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thinkwithus45/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shimpidipak81@gmail.com)
 
 </div>
 
@@ -46,76 +16,119 @@
 
 # 💫 About Me
 
-🔭 **I'm currently working on**
+- 🎓 Final-year **B.E. Information Technology** student at Matoshri College of Engineering and Research Centre, Nashik (SPPU)
+- ⚙️ I focus on **MLOps and DevOps**: taking machine learning models from a notebook to a monitored, containerized deployment
+- 🧠 Interested in **prompt engineering, AI and automation**, and in building intelligent systems with Python, Java and Linux
+- 🎙️ I share my learning and my perspective on tech, careers and content creation on **[Think With Us](https://www.instagram.com/thinkwithus45/)**
+- 🌱 Big believer that **consistency beats talent**
 
-- Building real-world ML & backend projects like house price prediction and autonomous trading systems
-- Improving my skills in Python, APIs, and deployment using Docker
-- Creating practical mini-projects to strengthen problem-solving skills
+---
 
-👯 **I'm looking to collaborate on**
+# 🎙️ Think With Us
 
-- Open-source Python & Machine Learning projects
+<div align="center">
+
+### Building in public, one post at a time
+
+[![Follow on Instagram](https://img.shields.io/badge/Follow-@thinkwithus45-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thinkwithus45/)
+
+</div>
+
+**Think With Us** is my Instagram channel where I share what I'm learning and how I think about it.
+
+- 💡 Perspectives on tech, learning and growth
+- 🎬 My content creation journey, including the wins, the mistakes and the lessons
+- 🛠️ Behind-the-scenes of the projects I build
+- 🤝 A place for students and beginners to think, learn and grow together
+
+> If you're a student figuring out your path in tech, come along. 👉 **[@thinkwithus45](https://www.instagram.com/thinkwithus45/)**
+
+---
+
+# 🔭 What I'm Working On
+
+### 🚀 Final-Year Project: Scalable MLOps Pipeline
+
+An automated pipeline that trains, packages, deploys and monitors a machine learning model using open-source tools.
+
+| Stage | Tool |
+|---|---|
+| Orchestration | Apache Airflow |
+| Containerization | Docker |
+| Deployment and scaling | Kubernetes (Minikube) |
+| Monitoring | Prometheus and Grafana |
+| Serving | Streamlit / FastAPI |
+| Retraining | Automated trigger when performance drops |
+
+### 🧪 Other Builds
+
+- 🏠 **House price prediction**: an end-to-end ML project
+- 📈 **Autonomous trading system**: a backend and automation project
+- 🔧 Small practical mini-projects to sharpen problem-solving
+
+<!-- TODO: link each project to its repo, e.g. [Repo](https://github.com/dipakshimpi/<repo-name>) -->
+
+---
+
+# 🌐 My Tech Universe
+
+<div align="center">
+
+### ☁️ DevOps and Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,azure,linux,prometheus,grafana&perline=9" />
+
+### 🧠 ML and Backend
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,sklearn,pandas,numpy&perline=9" />
+
+### 💻 Languages and Databases
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,dotnet,mongodb,mysql&perline=9" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=9" />
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+- ☸️ **Kubernetes** in depth: deployments, services, scaling
+- 🏗️ **Infrastructure as Code** with Terraform
+- 🔁 **CI/CD** with GitHub Actions
+- 🤖 **Prompt engineering** and AI automation workflows
+- 🐧 Linux administration and shell scripting
+- 🧹 Clean architecture and production-ready code
+
+---
+
+# 🤝 Let's Collaborate
+
+**I'm open to**
+- Open-source Python and machine learning projects
 - Backend projects using FastAPI / Flask
-- Beginner-friendly DevOps / CI-CD learning projects
+- DevOps and CI/CD learning projects
+- 🎓 **DevOps / MLOps trainee and internship roles**
 
-🤝 **I'm looking for help with**
+**I'd love help with**
+- Taking ML models to production at scale
+- Docker, deployment and cloud best practices
+- Code quality and clean architecture
 
-- Scaling ML models to production
-- Best practices in Docker, deployment, and cloud
-- Improving code quality and clean architecture
-
-🌱 **I'm currently learning**
-
-- Machine Learning fundamentals
-- REST APIs & Backend development
-- Docker & CI/CD basics
-- Writing efficient, readable & production-ready code
-
-💬 **Ask me about**
-
-- Python
-- Machine Learning basics
+**Ask me about**
+- Python, Git and GitHub
 - REST APIs
-- Git & GitHub
-- Problem solving & logic building
-
-⚡ **Fun fact**
-
-- I love turning ideas into working projects 🚀
-- I believe consistency beats talent 💯
-- I enjoy learning something new every day 😄
+- Machine learning basics
+- Docker and getting started with DevOps
+- Growing as a student creator
 
 ---
 
-## 🌐 Socials
+# ⚡ Fun Facts
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dipakshimpi_000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-shimpi-24a856281)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimpidipak81@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+- 🚀 I love turning ideas into working projects
+- 💯 Consistency beats talent
+- 😄 I try to learn something new every day
+- 🎥 I document the journey, so you can too
 
 ---
 
@@ -123,28 +136,29 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=dipakshimpi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dipakshimpi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dipakshimpi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=dipakshimpi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakshimpi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
----
 
-### 🔝 Top Contributed Repos
 
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=dipakshimpi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
+# 📫 Connect With Me
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-shimpi-24a856281)
+[![Instagram](https://img.shields.io/badge/Think%20With%20Us-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thinkwithus45/)
+[![Instagram](https://img.shields.io/badge/Personal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dipakshimpi_000)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shimpidipak81@gmail.com)
+
+<br/>
 
 ![](https://visitcount.itsvg.in/api?id=dipakshimpi&icon=6&color=6)
 
+*Thanks for stopping by. Let's build something together. ✨*
+
 </div>
 
-<!-- Proudly created with ❤️ -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer)
