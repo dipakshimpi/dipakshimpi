@@ -1,4 +1,4 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=dipakshimpi&icon=6&color=6" />
+<img align="right" src="https://komarev.com/ghpvc/?username=dipakshimpi&label=visitors&color=0e75b6&style=flat" />
 
 Hey, I am Dipak Shimpi, a final-year B.E. Information Technology student from Nashik, India. I focus on **MLOps and DevOps**, taking machine learning models from a notebook to a monitored, containerized deployment using Docker, Kubernetes, Airflow, Prometheus and Grafana. I also build backend projects with Python, FastAPI and Flask. I share what I learn about tech, careers and content creation on [Think With Us](https://www.instagram.com/thinkwithus45/), where I believe consistency beats talent.
 
