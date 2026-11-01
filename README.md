@@ -1,17 +1,44 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=dipakshimpi&label=visitors&color=0e75b6&style=flat" />
+ <div align="center">
 
-Hey, I am Dipak Shimpi, a final-year B.E. Information Technology student from Nashik, India. I focus on **MLOps and DevOps**, taking machine learning models from a notebook to a monitored, containerized deployment using Docker, Kubernetes, Airflow, Prometheus and Grafana. I also build backend projects with Python, FastAPI and Flask. I share what I learn about tech, careers and content creation on [Think With Us](https://www.instagram.com/thinkwithus45/), where I believe consistency beats talent.
+# Hi, I'm Dipak Shimpi 👋
 
-I'm currently open to **DevOps / MLOps trainee and internship roles**.
+### DevOps | MLOps | Cloud Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+and+automating+systems;Learning+MLOps+and+Cloud+Engineering;Open+Source+Contributor" alt="Typing SVG" />
+
+📍 Nashik, India · Final-year B.E. Information Technology student
+
+[LinkedIn](https://linkedin.com/in/dipak-shimpi-24a856281) · [GitHub](https://github.com/dipakshimpi) · [Think With Us](https://www.instagram.com/thinkwithus45/) · [Email](mailto:shimpidipak81@gmail.com)
+
+</div>
 
 ---
 
-**Connect with me**
+### About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-shimpi-24a856281)
-[![Instagram](https://img.shields.io/badge/Think%20With%20Us-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/thinkwithus45/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shimpidipak81@gmail.com)
+- Interested in **DevOps, MLOps, and Cloud Infrastructure**.
+- Building projects with Docker, Kubernetes, Python, and CI/CD.
+- Exploring open-source projects and cloud-native technologies.
+- Looking for **DevOps / MLOps internships and trainee roles**.
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,aws,terraform,githubactions,linux,prometheus,grafana,git" alt="Tech stack" />
+</p>
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dipakshimpi&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+
+</div>
 
 ---
 
-![Dipak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipakshimpi&show_icons=true&include_all_commits=true&count_private=true&theme=default)
+<div align="center">
+
+*Learn continuously. Build consistently. Contribute openly.*
+
+</div>
